@@ -4,7 +4,6 @@
 **sona201/sona201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -14,6 +13,7 @@
 - 🌱 read <让时间陪你慢慢变富>
 - 👯 read <k8s 网络原理>
 - 🤔 Learn Java (Spring Framwork)
+- 📫 [do python project](https://github.com/sona201/opstools)
 
 
 
