@@ -12,7 +12,7 @@
 - 👯 read <k8s 网络原理>
 - 🤔 Learn Java (Spring Framwork)
 - 📫 [do python project](https://github.com/sona201/opstools)
-- 💬 [Write more blog](https://sona201.github.io/)
+- 💬 [Write more than 12 blogs](https://sona201.github.io/)
 
 
 
