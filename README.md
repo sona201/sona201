@@ -2,17 +2,19 @@
 
 <!--
 **sona201/sona201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
 2024 plan to do
 - 🔭 read <左耳听风>
-- 🌱 read <让时间陪你慢慢变富>
+- 😄 learning <Unix编程技术>
 - 👯 read <k8s 网络原理>
+- 🌱 read <让时间陪你慢慢变富>
 - 🤔 Learn Java (Spring Framwork)
 - 📫 [do python project](https://github.com/sona201/opstools)
 - 💬 [Write more than 12 blogs](https://sona201.github.io/)
+
 
 
 
