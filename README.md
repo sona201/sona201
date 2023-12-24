@@ -6,6 +6,16 @@
 - ⚡ Fun fact: ...
 -->
 
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=sona201&show_icons=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sona201&layout=compact" />
+  </td>
+</tr>
+
 2024 plan to do
 - 🔭 read <左耳听风>
 - 😄 learning <Unix编程技术>
